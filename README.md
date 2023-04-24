@@ -7,8 +7,8 @@
 I am Nnaemeka Abah. I am a Software engineer, an open-source and developer advocate. I am always open to collaborating on projects and innovative/disruptive ideas. You will either find me coding or looking for the next cross cultural exchange opportuinity on a budget.
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abahnj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abahnj&hide=TeX&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=abahnj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abahnj&hide=TeX&layout=compact) -->
 
 <!--
 **abahnj/abahnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
